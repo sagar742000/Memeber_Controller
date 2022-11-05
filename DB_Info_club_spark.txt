@@ -1,0 +1,3 @@
+DB-Url=jdbc:mysql://localhost:3306/club_spark_api
+UserName=root
+Password=root
